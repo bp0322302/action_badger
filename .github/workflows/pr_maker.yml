@@ -39,6 +39,4 @@ jobs:
           labels: |
             report
             automated pr
-          assignees: 
-          reviewers: bp0322302
           draft: false
